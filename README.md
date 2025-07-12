@@ -39,10 +39,10 @@
 ###
 
 <h3 align="left">Projects 📂:</h3>
-🔗[Portolio Link]((https://github.com/AYA-Ashraf-AbdelRahim/Portfolio))
+
 ###
 
-<p align="left">Hello World!!</p>
+🔗[Project Link](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis)
 
 ###
 
