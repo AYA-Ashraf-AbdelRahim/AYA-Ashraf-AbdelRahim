@@ -39,10 +39,9 @@
 ###
 
 <h3 align="left">Projects 📂:</h3>
+## 📂 Projects
 
-###
-
-🔗[Project Link](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis)
+🔗 [Project Link](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis)
 
 ###
 
