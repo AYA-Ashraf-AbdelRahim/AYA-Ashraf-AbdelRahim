@@ -38,11 +38,10 @@
 
 ###
 
-<h3 align="left">Projects 📂:</h3>
-## 📂 Projects
+<h3 align="left">Projects 📂:
 
 🔗 [Project Link](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis)
-
+</h3>
 ###
 
 <h2 align="left">I code with</h2>
