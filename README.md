@@ -40,7 +40,7 @@
 
 <h3 align="left">Projects 📂:
 
-🔗 [Portfolio](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis)
+🔗 [Portfolio](https://github.com/AYA-Ashraf-AbdelRahim/Portfolio)
 </h3>
 
 
